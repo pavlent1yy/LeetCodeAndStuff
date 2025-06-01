@@ -1,0 +1,13 @@
+{
+  "java.completion.filteredTypes": [
+    "com.sun.*",
+    "sun.*",
+    "jdk.*",
+    "org.graalvm.*",
+    "io.micrometer.shaded.*"
+  ],
+  "java.project.sourcePaths": ["src"],
+  "java.project.referencedLibraries": [
+    "c:\\Java\\THGAFSLdjygAS\\lib\\junit-platform-console-standalone-1.10.1.jar"
+  ]
+}
